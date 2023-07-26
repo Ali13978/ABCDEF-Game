@@ -1,0 +1,4 @@
+repository "ABCDEF@The_Indie_Accord@cloud"
+  path "/"
+    br "/main"
+    co "/main"
